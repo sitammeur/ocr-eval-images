@@ -1,1 +1,1 @@
-# ocr-test
+# OCR Evaluation Images
